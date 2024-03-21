@@ -1,4 +1,4 @@
-from flask import Flask, Response, render_template, redirect, url_for, request, session, jsonify
+from flask import Flask, Response, render_template, redirect, url_for, request, session, jsonify, flash
 from flask_wtf import FlaskForm
 from wtforms import StringField, PasswordField, SubmitField
 from wtforms.validators import DataRequired, EqualTo, Email, Regexp
@@ -353,8 +353,12 @@ def login():
             return redirect('/dash')
         
         ## Otherwise, fail by default:
+
         user_log.warning("AUTH: Login attempt as \"%s\" was rejected. Invalid credentials."%(input_username)) # Log. capture IP? Left as warning for now, could change with justification.
-        return 'Login failed. Please check your credentials, and try again.'
+        ##Added flash functionality to return a popup with invalid message, then redirect to login page
+        flash(f"Login invalid, please check your credentials and try again.")
+        return redirect('/login')
+        
 
     return render_template('login.html')  # Create a login form in the HTML template
 
