@@ -187,8 +187,8 @@ var passwordLength = collectElements(passwordLength, "passwordLength");
 //checks for password length against requirements
 function checkLength() {
   //checks for password length 
-  var maxlength = 16;
-  var minlength = 8;
+  var maxlength = 20;
+  var minlength = 12;
   if (userInput.value.length >= minlength && userInput.value.length <= maxlength) {
     correctClassList(passwordLength);
   } else {
