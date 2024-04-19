@@ -1,19 +1,13 @@
 *Document Details*
 
-![](media/image1.png){width="1.55in" height="0.8211920384951881in"}
-
 Dolfin Password Policy
 
 Overview: The Password Policy identifies requirements of password
 complexity, management, and expiration. These all work to add an extra
 layer of security to the application's user accounts. The policy covers
-the aims of deactivation of user accounts with old, "expired" passwords.
+the aims of deactivation of user accounts with old, "expired" passwords. 
 
-![](media/image2.png){width="0.83in" height="0.5237664041994751in"}
-
-29 March 2024
-
-Mariska Heera Mohanadas
+Also: This was created by Mariska Heera Mohanadas, senior. There were images in the original documents, pdf versions can be found on teams with the images included.
 
 DataBytes, Dolfin Project at Deakin University Australia
 
