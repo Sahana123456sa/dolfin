@@ -1,6 +1,8 @@
+*Document Details*
+
 ![](media/image1.png){width="1.55in" height="0.8211920384951881in"}
 
-dolfin Password policy
+Dolfin Password Policy
 
 Overview: The Password Policy identifies requirements of password
 complexity, management, and expiration. These all work to add an extra
@@ -11,48 +13,41 @@ the aims of deactivation of user accounts with old, "expired" passwords.
 
 29 March 2024
 
-mariska heera mohanadas
+Mariska Heera Mohanadas
 
 DataBytes, Dolfin Project at Deakin University Australia
 
 Password Policy
 
-# Table of Contents {#table-of-contents .TOC-Heading}
+# Table of Contents
 
-[Part 1 - Recitals [1](#part-1---recitals)](#part-1---recitals)
+[Part 1 - Recitals](#part-1---recitals)
 
-[Purpose [1](#purpose)](#purpose)
+[Purpose](#purpose)
 
-[Scope [1](#scope)](#scope)
+[Scope](#scope)
 
-[Part 2 - Policy Statement
-[2](#part-2---policy-statement)](#part-2---policy-statement)
+[Part 2 - Policy Statement](#part-2---policy-statement)
 
-[Password Creation and Complexity
-[2](#password-creation-and-complexity)](#password-creation-and-complexity)
+[Password Creation and Complexity](#password-creation-and-complexity)
 
-[Password Management [2](#password-management)](#password-management)
+[Password Management](#password-management)
 
-[Authentication Factors
-[2](#authentication-factors)](#authentication-factors)
+[Authentication Factors](#authentication-factors)
 
-[Account Lockout and Password Recovery
-[2](#account-lockout-and-password-recovery)](#account-lockout-and-password-recovery)
+[Account Lockout and Password Recovery](#account-lockout-and-password-recovery)
 
-[Password Storage and Transmission
-[2](#password-storage-and-transmission)](#password-storage-and-transmission)
+[Password Storage and Transmission](#password-storage-and-transmission)]
 
-[Employee Training and Awareness
-[3](#employee-training-and-awareness)](#employee-training-and-awareness)
+[Employee Training and Awareness](#employee-training-and-awareness)
 
-[Enforcement and Compliance
-[3](#enforcement-and-compliance)](#enforcement-and-compliance)
+[Enforcement and Compliance](#enforcement-and-compliance)
 
-[Part 3 Reviews [3](#part-3-reviews)](#part-3-reviews)
+[Part 3 Reviews](#part-3-reviews))
 
-[Review and Revision [3](#review-and-revision)](#review-and-revision)
+[Review and Revision](#review-and-revision)
 
-[Approval [3](#approval)](#approval)
+[Approval](#approval)
 
 # Part 1 - Recitals
 
