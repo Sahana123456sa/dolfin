@@ -1,59 +1,44 @@
-![A blue whale with a white bubble in the middle Description
-automatically generated](media/image1.png){width="7.552083333333333in"
-height="7.058022747156605in"}
+*Document Details* 
+<br></br>
+This was created by Mariska Heera Mohanadas, senior. There were images in the original documents, pdf versions can be found on teams with the images included. 
 
-**\
-**
 
 **DOLFIN DATA GOVERNANCE POLICY AND PROCEDURE**
 
 **DOLFIN CORPORATION\
 DATABYTES COMPANY**
 
-**Contributors: Senior Mariska Heera Mohanadas**
-
 **T1 2024**
 
-# Contents {#contents .TOC-Heading}
+# Contents 
 
-[Policy: Data Governance
-[3](#policy-data-governance)](#policy-data-governance)
+[Policy: Data Governance](#policy-data-governance)
 
-[SECTION 1 - Purpose [3](#section-1---purpose)](#section-1---purpose)
+[SECTION 1 - Purpose](#section-1---purpose)
 
-[SECTION 2 - Overview [3](#section-2---overview)](#section-2---overview)
+[SECTION 2 - Overview](#section-2---overview)
 
-[SECTION 3 - Scope [3](#section-3---scope)](#section-3---scope)
+[SECTION 3 - Scope](#section-3---scope)
 
-[SECTION 4 - Definitions
-[3](#section-4---definitions)](#section-4---definitions)
+[SECTION 4 - Definitions](#section-4---definitions)
 
-[SECTION 5 - Policy Statement
-[4](#section-5---policy-statement)](#section-5---policy-statement)
+[SECTION 5 - Policy Statement](#section-5---policy-statement)
 
-[General Policy Statement
-[4](#general-policy-statement)](#general-policy-statement)
+[General Policy Statement](#general-policy-statement)
 
-[Procedure: Data Governance
-[5](#procedure-data-governance)](#procedure-data-governance)
+[Procedure: Data Governance](#procedure-data-governance)
 
-[SECTION 1 -- Data Custodianship and Roles
-[5](#section-1-data-custodianship-and-roles)](#section-1-data-custodianship-and-roles)
+[SECTION 1 -- Data Custodianship and Roles](#section-1-data-custodianship-and-roles)
 
-[SECTION 2 -- Data Management
-[5](#section-2-data-management)](#section-2-data-management)
+[SECTION 2 -- Data Management](#section-2-data-management)
 
-[Data Classification [5](#data-classification)](#data-classification)
+[Data Classification](#data-classification)
 
-[Data Security Events or Weaknesses
-[6](#data-security-events-or-weaknesses)](#data-security-events-or-weaknesses)
+[Data Security Events or Weaknesses](#data-security-events-or-weaknesses)
 
-[ACKNOWLEDGEMENTS [7](#acknowledgements)](#acknowledgements)
+[ACKNOWLEDGEMENTS](#acknowledgements)
 
-[ASSUMPTIONS [7](#assumptions)](#assumptions)
-
--   **\
-    **
+[ASSUMPTIONS](#assumptions)
 
 # Policy: Data Governance 
 
@@ -389,5 +374,3 @@ Business Domains, including, but not limited to, Human Resources,
 Information Security, and Administration.
 
 #  
-
-![](media/image2.png){width="6.268055555555556in" height="3.69375in"}
